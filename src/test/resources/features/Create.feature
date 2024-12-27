@@ -41,7 +41,7 @@ Feature: Add Planets and Moons
       |moon name|planet id|error message|
       |Pluto Is No Longer A Planet Sad|1|Invalid moon name|
       |Uranus(Haha)	                  |1|Invalid moon name|
-      |Titan	                      |1|invalid moon name|
+      |Titan	                      |1|Invalid moon name|
       |	                              |1|Invalid moon name|
-      |Ganymedes                      | |Invalid planet id|
-      |Ganymedes                      |4|Invalid planet id|
+      |Mars and Io are_cool-4         | |Invalid planet id|
+      |Mars and Io are_cool-4         |4|Invalid planet id|
